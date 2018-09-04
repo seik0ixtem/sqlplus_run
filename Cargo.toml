@@ -1,0 +1,8 @@
+[package]
+name = "sqlplus_run"
+version = "0.1.0"
+authors = ["potolicynam <potolicynam@tehnologia.com>"]
+
+[dependencies]
+#sqlplus_wrap = { path = "D:/workspace/rust/sqlplus_wrap/" }
+encoding_rs = "*"
