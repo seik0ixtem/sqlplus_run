@@ -1,0 +1,3 @@
+[main]
+term_log_level = 'DEBUG'
+file_log_level = 'DEBUG'
